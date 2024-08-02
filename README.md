@@ -1,10 +1,5 @@
-# Mahmoud-papa (ecommerce website) - Todo app
 
-![Design preview for the ecommerce website coding project
-
-## Welcome! 👋
-
-## Overview
+## Overview Mahmoud-papa (ecommerce website)
 This project was apply CSS, HTML, and Javascript,REACT with calling from API, showcasing proficiency in web development technologies, including HTML, CSS, grid,Flex, JavaScript,react. The goal of this project was to demonstrate skills in appealing web application.
 
 ## Technologies Used
@@ -29,5 +24,5 @@ Visit the live website [My website](https://mahmoud-papa.vercel.app/).
 Find the source code in this [https://github.com/MahmoudWafdy/news-feed).
 
 ## Preview
-![website photo](/images/git1.JPG) 
+![website photo](./images/git1.JPG) 
 
