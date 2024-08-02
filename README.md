@@ -24,5 +24,8 @@ Visit the live website [My website](https://mahmoud-papa.vercel.app/).
 Find the source code in this [https://github.com/MahmoudWafdy/news-feed).
 
 ## Preview
-![website photo](./images/git1.JPG) 
+![website photo](./git1.JPG)
+![website photo](./git2.JPG) 
+![website photo](./git3.JPG) 
+
 
